@@ -3,3 +3,6 @@ uv.lock
 organizer
 4_Dataframes/4B_LongTablesAndCategoricalAnalysis_SOL.ipynb
 4_Dataframes/4C_VisualDataExplorationWithSeaborn_SOL.ipynb
+6_DataPipelines/6A_HDF5withH5py_SOL.ipynb
+5_DatasetsAndStatistics/5B_XArray_Datasets_SOL.ipynb
+5_DatasetsAndStatistics/5C_StatisticsWithPingouin_SOL.ipynb
